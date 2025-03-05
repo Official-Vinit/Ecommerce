@@ -1,4 +1,4 @@
 Ecommerce App
 
-# Authentication 
+Authentication:
 Firebase email login
